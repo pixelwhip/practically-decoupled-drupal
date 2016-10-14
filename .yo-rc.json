@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Practically Decoupled Drupal",
+    "packageVersion": "0.0.1",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "pixelwhip",
+    "githubRepository": "practically-decoupled-drupal"
+  }
+}
