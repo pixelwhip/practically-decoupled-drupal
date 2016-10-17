@@ -1,6 +1,10 @@
 [
     {
-        "filename": "01-Intro/title.md"
+        "filename": "01-Intro/title.md",
+        "attr": {
+            "data-state": "state--gold",
+            "data-background": "resources/img/modjs_Diaganol-Gold.svg"
+        }
     },
     {
         "filename": "01-Intro/speakers.html",
@@ -9,7 +13,10 @@
         }
     },
     {
-        "filename": "01-Intro/aten.html"
+        "filename": "01-Intro/aten.html",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol-Single.svg"
+        }
     },
     {
         "filename": "01-Intro/aten-clients.md",
@@ -24,6 +31,25 @@
         }
     },
     {
+        "filename": "03-Why/intro.html",
+        "attr": {
+            "data-state": "state--gold",
+            "data-background": "resources/img/modjs_Diaganol-Gold.svg"
+        }
+    },
+    {
+        "filename": "03-Why/frontend.md",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol-Single.svg"
+        }
+    },
+    {
+        "filename": "03-Why/backend.md",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol-Single.svg"
+        }
+    },
+    {
         "filename": "02-What/levels.md",
         "attr": {
             "data-state": "state--dark",
@@ -31,7 +57,7 @@
         }
     },
     {
-        "filename": "OLD/guttmacher-state-policies.md",
+        "filename": "02-What/guttmacher-state-policies.md",
         "attr": {
             "data-background": "resources/img/modjs_Diaganol.svg"
         }
@@ -43,206 +69,61 @@
         }
     },
     {
-        "filename": "OLD/history-reasons.md",
+        "filename": "OLD/_timeline.md",
         "attr": {
             "data-background": "resources/img/modjs_Diaganol.svg"
         }
     },
     {
-        "filename": "OLD/history-npm.md",
+        "filename": "OLD/_graph.md",
         "attr": {
             "data-state": ""
         }
     },
     {
-        "filename": "OLD/modules-as-books.html",
+        "filename": "OLD/_quote.html",
         "attr": {}
     },
     {
-        "filename": "OLD/goals.md",
+        "filename": "OLD/_ol.md",
         "attr": {
             "data-background": "resources/img/modjs_Diaganol.svg"
         }
     },
     {
-        "filename": "OLD/modules-export.md",
+        "filename": "OLD/_sub-section.md",
         "attr": {
             "data-state": "state--dark",
             "data-background": "#323133"
         }
     },
     {
-        "filename": "OLD/module-formats.html",
+        "filename": "OLD/_discs.html",
         "attr": {
         }
     },
     {
-        "filename": "OLD/amd.html",
+        "filename": "OLD/_code-columns.html",
         "attr": {
         }
     },
     {
-        "filename": "OLD/common-js.html",
-        "attr": {
-        }
-    },
-    {
-        "filename": "OLD/es6-modules.html",
-        "attr": {
-        }
-    },
-    {
-        "filename": "OLD/es6-modules-default.html",
-        "attr": {
-        }
-    },
-    {
-        "filename": "OLD/js-bundlers.html",
+        "filename": "OLD/_section.html",
         "attr": {
             "data-state": "state--gold",
             "data-background": "resources/img/modjs_Diaganol-Gold.svg"
         }
     },
     {
-        "filename": "OLD/js-bundlers-overview.html",
+        "filename": "OLD/_bullets.html",
         "attr": {
             "data-background": "resources/img/modjs_Diaganol.svg"
         }
     },
-    "OLD/bundler-glossary.html",
-    "OLD/js-bundlers-examples.html",
+    "OLD/_img.html",
+    "OLD/_columns.html",
     {
-        "filename": "OLD/browserify.html",
-        "attr": {
-            "data-background": "resources/img/modjs_Diaganol.svg"
-        }
-    },
-    {
-        "filename": "OLD/browserify-usage-global.html",
-        "attr": {
-        }
-    },
-    {
-        "filename": "OLD/browserify-usage-local.html",
-        "attr": {
-        }
-    },
-    {
-        "filename": "OLD/browserify-usage-api.html",
-        "attr": {
-        }
-    },
-    {
-        "filename": "OLD/browsernizr.html",
-        "attr": {
-        }
-    },
-    {
-        "filename": "OLD/lodash.html",
-        "attr": {
-        }
-    },
-    {
-        "filename": "OLD/lodash-specific.html",
-        "attr": {
-        }
-    },
-    {
-        "filename": "OLD/browserify-shim.html",
-        "attr": {
-        }
-    },
-    {
-        "filename": "OLD/transforms.html",
-        "attr": {
-            "data-state": "state--gold",
-            "data-background": "resources/img/modjs_Diaganol-Gold.svg"
-        }
-    },
-    {
-        "filename": "OLD/transpiler-before.html",
-        "attr": {
-        }
-    },
-    {
-        "filename": "OLD/transpiler-after.html",
-        "attr": {
-        }
-    },
-    {
-        "filename": "OLD/nunjucksify.html",
-        "attr": {
-        }
-    },
-    {
-        "filename": "OLD/nunjucksify-result.html",
-        "attr": {
-        }
-    },
-    {
-        "filename": "OLD/transforms-usage-package.html",
-        "attr": {
-        }
-    },
-    {
-        "filename": "OLD/transforms-usage.html",
-        "attr": {
-        }
-    },
-    {
-        "filename": "OLD/transforms-usage-api.html",
-        "attr": {
-        }
-    },
-    {
-        "filename": "OLD/transforms-babelify.html",
-        "attr": {
-        }
-    },
-    {
-        "filename": "OLD/factor-bundle-files.html",
-        "attr": {
-        }
-    },
-    {
-        "filename": "OLD/factor-bundle-graph.html",
-        "attr": {
-        }
-    },
-    {
-        "filename": "OLD/factor-bundle.html",
-        "attr": {
-        }
-    },
-    {
-        "filename": "OLD/watchify.html",
-        "attr": {
-        }
-    },
-    {
-        "filename": "OLD/drupal.html",
-        "attr": {
-            "data-state": "state--gold",
-            "data-background": "resources/img/modjs_Diaganol-Gold.svg"
-        }
-    },
-    {
-        "filename": "OLD/drupal-scaffold.html",
-        "attr": {
-        }
-    },
-    {
-        "filename": "OLD/drupal-package.html",
-        "attr": {
-        }
-    },
-    {
-        "filename": "OLD/drupal-bundle.html",
-        "attr": {
-        }
-    },
-    {
-        "filename": "OLD/drupal-libraries.html",
+        "filename": "OLD/_cli.html",
         "attr": {
         }
     }
