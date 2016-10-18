@@ -16,8 +16,19 @@ build:
 
 dist:
 	$(GRUNT_CMD) dist
+	make checksum
 
 serve:
 	$(CADDY_CMD) -root=$(DIST_DIR)
 
-.PHONY: build dist serve
+watch:
+	while true; do make validate; sleep 1; done
+
+validate:
+	find $(CURRENT_DIR)/slides -type f | parallel -k cat | md5sum -c .watch || \
+		make dist
+
+checksum:
+	find $(CURRENT_DIR)/slides -type f | parallel -k cat | md5sum -b > .watch
+
+.PHONY: build dist serve watch validate checksum
