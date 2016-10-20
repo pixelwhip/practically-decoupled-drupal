@@ -1,15 +1,15 @@
 ## Core REST module
 
 **Great for**:
-- No dependencies
-- Stability
-- If you just need to expose something small and isolated
+  - No dependencies
+  - Stability
+  - If you just need to expose something small and isolated
 
 **Downsides**:
-- Wasn't originally intended for decoupled applications
-- Leaks a ton of drupalisms to the client
-- Configuration is frustrating
-- No support for client-driven collections
+  - Wasn't originally intended for decoupled applications
+  - Leaks a ton of drupalisms to the client
+  - Configuration is frustrating
+  - No support for client-driven collections
 
 <aside class="notes" data-markdown>
 - Small and isolated
@@ -23,6 +23,8 @@
       - You have to export a view for this, but all you have are contextual filters
         - Can't change sorting
   - HAL+JSON is wonky
+- Leaky drupal
+  - No such thing as single value field, every value is at `field_name[0].value`
 - Tangent on Views
   - Hardest mental shift to make is separating data from presentation
   - Drupal has made us very accustomed to the server deciding what to show you and how
