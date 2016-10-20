@@ -63,6 +63,60 @@
         }
     },
     {
+        "filename": "02-What/guttmacher-state-policies-points.md",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol.svg"
+        }
+    },
+    {
+        "filename": "02-What/guttmacher-data.md",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol.svg"
+        }
+    },
+    {
+        "filename": "02-What/guttmacher-data-points.md",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol.svg"
+        }
+    },
+    {
+        "filename": "02-What/ltlt-game-data-center.md",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol.svg"
+        }
+    },
+    {
+        "filename": "02-What/ltlt-game-data-center-points.md",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol.svg"
+        }
+    },
+    {
+        "filename": "02-What/c4l-assessments.md",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol.svg"
+        }
+    },
+    {
+        "filename": "02-What/c4l-assessments-points.md",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol.svg"
+        }
+    },
+    {
+        "filename": "02-What/rema.md",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol.svg"
+        }
+    },
+    {
+        "filename": "02-What/rema-points.md",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol.svg"
+        }
+    },
+    {
         "filename": "OLD/_stats.md",
         "attr": {
             "data-background": "resources/img/modjs_Diaganol.svg"
