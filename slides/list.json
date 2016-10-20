@@ -117,6 +117,42 @@
         }
     },
     {
+      "filename": "04-How/drupal-settings.md",
+      "attr": {
+        "data-background": "resources/img/modjs_Diaganol.svg"
+      }
+    },
+    {
+      "filename": "04-How/controllers.md",
+      "attr": {
+        "data-background": "resources/img/modjs_Diaganol.svg"
+      }
+    },
+    {
+      "filename": "04-How/rest-module.md",
+      "attr": {
+        "data-background": "resources/img/modjs_Diaganol.svg"
+      }
+    },
+    {
+      "filename": "04-How/entity-query-api-module.md",
+      "attr": {
+        "data-background": "resources/img/modjs_Diaganol.svg"
+      }
+    },
+    {
+      "filename": "04-How/json-api-module.md",
+      "attr": {
+        "data-background": "resources/img/modjs_Diaganol.svg"
+      }
+    },
+    {
+        "filename": "02-What/rema-points.md",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol.svg"
+        }
+    },
+    {
         "filename": "OLD/_stats.md",
         "attr": {
             "data-background": "resources/img/modjs_Diaganol.svg"

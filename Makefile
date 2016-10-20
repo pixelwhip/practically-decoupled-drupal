@@ -22,7 +22,7 @@ serve:
 	$(CADDY_CMD) -root=$(DIST_DIR)
 
 watch:
-	while true; do make validate; sleep 1; done
+	while true; do make validate; sleep .5; done
 
 validate:
 	find $(CURRENT_DIR)/slides -type f | parallel -k cat | md5sum -c .watch || \
