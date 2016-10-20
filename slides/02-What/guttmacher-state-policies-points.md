@@ -1,4 +1,11 @@
-<figure>
-  <img src="resources/img/GUTT-State_Policy_Updates.png" alt="guttmacher.org" class="screenshot">
-  <figcaption><a href="https://www.guttmacher.org/state-policy" class="citation">Guttmacher.org  State Policies</a></figcaption>
-</figure>
+- Partially decoupled
+- Uses drupalSettings (D8 version of Drupal.settings) to get filtering options
+- Pulls its data from CouchDB based on filters from Drupal
+- Built with: 
+	- Nunjucks
+	- React app (embedded in the greater Drupal site)
+	- Drupal
+	- CouchDB
+
+<aside class="notes" data-markdown>
+</aside>

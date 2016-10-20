@@ -1,4 +1,9 @@
-<figure>
-  <img src="resources/img/GUTT-State_Policy_Updates.png" alt="guttmacher.org" class="screenshot">
-  <figcaption><a href="https://www.guttmacher.org/state-policy" class="citation">Guttmacher.org  State Policies</a></figcaption>
-</figure>
+- Fully decoupled node application
+- Data is pulled from a Drupal site using the Core REST module and exported views
+- Standalone application in order to have an authentication boundary
+- Built with:
+  - Hapi.js
+  - Drupal (Core REST and exported Views)
+
+<aside class="notes" data-markdown>
+</aside>
