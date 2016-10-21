@@ -126,7 +126,29 @@
     {
         "filename": "02-What/c4l-assessments.md",
         "attr": {
-            "data-background": "resources/img/modjs_Diaganol.svg"
+            "data-state": "state--screenshot",
+            "data-background": "#323133"
+        }
+    },
+    {
+        "filename": "02-What/c4l-detail1.md",
+        "attr": {
+            "data-state": "state--screenshot",
+            "data-background": "#323133"
+        }
+    },
+    {
+        "filename": "02-What/c4l-detail2.md",
+        "attr": {
+            "data-state": "state--screenshot",
+            "data-background": "#323133"
+        }
+    },
+    {
+        "filename": "02-What/c4l-detail3.md",
+        "attr": {
+            "data-state": "state--screenshot",
+            "data-background": "#323133"
         }
     },
     {
@@ -136,15 +158,28 @@
         }
     },
     {
+        "filename": "02-What/c4l-flow.html",
+        "attr": {
+            "data-state": "state--image"
+        }
+    },
+    {
         "filename": "02-What/rema.md",
         "attr": {
-            "data-background": "resources/img/modjs_Diaganol.svg"
+            "data-state": "state--screenshot",
+            "data-background": "#323133"
         }
     },
     {
         "filename": "02-What/rema-points.md",
         "attr": {
             "data-background": "resources/img/modjs_Diaganol.svg"
+        }
+    },
+    {
+        "filename": "02-What/rema-flow.html",
+        "attr": {
+            "data-state": "state--image"
         }
     },
     {

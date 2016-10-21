@@ -1,11 +1,13 @@
+## Connect 4 Learning
 - "Progressively" decoupled
   - Whole portions of the application are done with React alone vs. "partially" decoupled which relied on Drupal pushing data
 - Single React app embedded within a greater Drupal application
   - React app has its own routing system within the client
-  - Not multiple "mini" apps, just one
-- Built with:
+  - Shared app code across routes.
+
+<h4 class="sub-section__heading">Built with:</h4>
+  - Drupal 8 _(drupalSettings, custom controllers, Entity Query API module)_
   - React
-  - Drupal (drupalSettings, custom controllers, Entity Query API module)
 
 <aside class="notes" data-markdown>
 # Ferris
