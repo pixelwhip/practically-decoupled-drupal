@@ -687,7 +687,7 @@ body {
 
 .reveal .screenshots {
   height: 750px;
-  width: 1080px;
+  width: 1200px;
   overflow-y: hidden;
   overflow-x: visible;
   margin-top: 40px;
@@ -704,10 +704,10 @@ body {
   width: 100%; }
 
 .reveal .screenshot--primary {
-  width: 700px; }
+  width: 65%; }
 
 .reveal .screenshot--secondary {
-  width: 386px;
+  width: 35%;
   height: 700px;
   position: absolute;
   bottom: 0;

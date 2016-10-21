@@ -95,11 +95,15 @@
     {
         "filename": "02-What/guttmacher-data.md",
         "attr": {
-            "data-background": "resources/img/modjs_Diaganol.svg"
+            "data-state": "state--screenshot",
+            "data-background": "#323133"
         }
     },
     {
-        "filename": "02-What/guttmacher-data-flow.md"
+        "filename": "02-What/guttmacher-data-flow.html",
+        "attr": {
+            "data-state": "state--image"
+        }
     },
     {
         "filename": "02-What/guttmacher-data-points.md",

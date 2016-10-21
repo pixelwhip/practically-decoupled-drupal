@@ -1,7 +1,11 @@
-- Fully decoupled React app
-- HTML is initially rendered on the server, then the browser is "hydrated" by React and transitions are all client-side
+## Guttmacher Data Center
+- Fully decoupled universal React app
+- HTML is initially rendered on the server
+- The App is _hydrated_ with data on the client
+- Client-side routing
 - Progressively enhanced
-- Built with:
+
+<h4 class="sub-section__heading">Built with:</h4>
   - React
   - Silex (not Drupal because of the shape of the data, but certainly could be)
 
