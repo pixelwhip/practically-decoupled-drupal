@@ -67,6 +67,20 @@
         }
     },
     {
+        "filename": "02-What/guttmacher-state-policies-detail.md",
+        "attr": {
+            "data-state": "state--screenshot",
+            "data-background": "#323133"
+        }
+    },
+    {
+        "filename": "02-What/guttmacher-state-policies-detail2.md",
+        "attr": {
+            "data-state": "state--screenshot",
+            "data-background": "#323133"
+        }
+    },
+    {
         "filename": "02-What/guttmacher-state-policies-flow.html",
         "attr": {
             "data-state": "state--image"

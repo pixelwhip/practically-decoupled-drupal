@@ -9,7 +9,8 @@ section[data-state="state--gold"],
 section[data-state="state--dark"] {
   padding: 0 240px !important; }
 
-section[data-state="state--image"] {
+section[data-state="state--image"],
+section[data-state="state--screenshot"] {
   padding: 0 !important; }
 
 section[data-state="state--screenshot"], section[data-state="state--screenshot"] h1, section[data-state="state--screenshot"] h2, section[data-state="state--screenshot"] h3, section[data-state="state--screenshot"] h4, section[data-state="state--screenshot"] h5, section[data-state="state--screenshot"] h6,
@@ -312,6 +313,9 @@ body {
 
 .reveal section {
   margin-top: 0; }
+
+.reveal .sub-section__heading {
+  margin-top: 1.5em; }
 
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
   text-align: left;
@@ -666,8 +670,20 @@ body {
   justify-content: flex-end;
   flex-direction: column; }
 
+.reveal .screenshot__wrapper--detail {
+  width: 1920px;
+  height: 1200px;
+  padding: 0 0 0 12.5%;
+  display: flex;
+  justify-content: flex-end;
+  box-sizing: border-box; }
+
 .reveal .screenshot__heading {
   font-size: 100px; }
+
+.reveal .screenshot__header {
+  padding: 10% 5% 0 0;
+  flex-basis: 50%; }
 
 .reveal .screenshots {
   height: 750px;
@@ -676,6 +692,16 @@ body {
   overflow-x: visible;
   margin-top: 40px;
   position: relative; }
+
+.reveal .screenshots--detail {
+  height: 1200px;
+  flex-basis: 50%;
+  overflow-y: hidden;
+  overflow-x: visible;
+  position: relative; }
+
+.reveal .screenshot--detail {
+  width: 100%; }
 
 .reveal .screenshot--primary {
   width: 700px; }
