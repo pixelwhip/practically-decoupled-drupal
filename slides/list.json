@@ -112,18 +112,6 @@
         }
     },
     {
-        "filename": "02-What/ltlt-game-data-center.md",
-        "attr": {
-            "data-background": "resources/img/modjs_Diaganol.svg"
-        }
-    },
-    {
-        "filename": "02-What/ltlt-game-data-center-points.md",
-        "attr": {
-            "data-background": "resources/img/modjs_Diaganol.svg"
-        }
-    },
-    {
         "filename": "02-What/c4l-assessments.md",
         "attr": {
             "data-state": "state--screenshot",
