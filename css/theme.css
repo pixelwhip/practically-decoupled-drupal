@@ -4,7 +4,22 @@
  *
  * Copyright (C) 2015 Hakim El Hattab, http://hakim.se
  */
-section[data-state="state--dark"], section[data-state="state--dark"] h1, section[data-state="state--dark"] h2, section[data-state="state--dark"] h3, section[data-state="state--dark"] h4, section[data-state="state--dark"] h5, section[data-state="state--dark"] h6 {
+section:not([data-state]),
+section[data-state="state--gold"],
+section[data-state="state--dark"] {
+  padding: 0 240px !important; }
+
+section[data-state="state--image"] {
+  padding: 0 !important; }
+
+section[data-state="state--screenshot"], section[data-state="state--screenshot"] h1, section[data-state="state--screenshot"] h2, section[data-state="state--screenshot"] h3, section[data-state="state--screenshot"] h4, section[data-state="state--screenshot"] h5, section[data-state="state--screenshot"] h6,
+section[data-state="state--dark"],
+section[data-state="state--dark"] h1,
+section[data-state="state--dark"] h2,
+section[data-state="state--dark"] h3,
+section[data-state="state--dark"] h4,
+section[data-state="state--dark"] h5,
+section[data-state="state--dark"] h6 {
   color: #fff; }
 
 section[data-state="state--gold"], section[data-state="state--gold"] h1, section[data-state="state--gold"] h2, section[data-state="state--gold"] h3, section[data-state="state--gold"] h4, section[data-state="state--gold"] h5, section[data-state="state--gold"] h6 {
@@ -362,7 +377,13 @@ body {
   margin-top: 60px; }
 
 .reveal .image--full {
-  transform: scale(1.2); }
+  max-width: none;
+  max-height: none; }
+
+.reveal .image--center {
+  margin-left: auto;
+  margin-right: auto;
+  display: block; }
 
 .reveal p:first-child,
 .reveal img:first-child {
@@ -636,3 +657,40 @@ body {
   margin-bottom: .25em;
   flex-basis: 80%;
   margin-left: 0; }
+
+.reveal .screenshot__wrapper {
+  width: 1920px;
+  height: 1200px;
+  padding: 0 240px;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column; }
+
+.reveal .screenshot__heading {
+  font-size: 100px; }
+
+.reveal .screenshots {
+  height: 750px;
+  width: 1080px;
+  overflow-y: hidden;
+  overflow-x: visible;
+  margin-top: 40px;
+  position: relative; }
+
+.reveal .screenshot--primary {
+  width: 700px; }
+
+.reveal .screenshot--secondary {
+  width: 386px;
+  height: 700px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  overflow: hidden;
+  box-shadow: -20px 0 80px rgba(50, 49, 51, 0.6); }
+
+.reveal .screenshot__img {
+  width: 100%;
+  height: auto;
+  max-width: none;
+  max-height: none; }

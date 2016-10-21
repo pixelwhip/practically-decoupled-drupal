@@ -9,18 +9,21 @@
     {
         "filename": "01-Intro/speakers.html",
         "attr": {
+            "data-state": "state--image",
             "data-background": "resources/img/modjs_Diaganol-Single.svg"
         }
     },
     {
         "filename": "01-Intro/aten.html",
         "attr": {
+            "data-state": "state--image",
             "data-background": "resources/img/modjs_Diaganol-Single.svg"
         }
     },
     {
-        "filename": "01-Intro/aten-clients.md",
+        "filename": "01-Intro/aten-clients.html",
         "attr": {
+            "data-state": "state--image"
         }
     },
     {
@@ -59,7 +62,14 @@
     {
         "filename": "02-What/guttmacher-state-policies.md",
         "attr": {
-            "data-background": "resources/img/modjs_Diaganol.svg"
+            "data-state": "state--screenshot",
+            "data-background": "#323133"
+        }
+    },
+    {
+        "filename": "02-What/guttmacher-state-policies-flow.html",
+        "attr": {
+            "data-state": "state--image"
         }
     },
     {
@@ -73,6 +83,9 @@
         "attr": {
             "data-background": "resources/img/modjs_Diaganol.svg"
         }
+    },
+    {
+        "filename": "02-What/guttmacher-data-flow.md"
     },
     {
         "filename": "02-What/guttmacher-data-points.md",
