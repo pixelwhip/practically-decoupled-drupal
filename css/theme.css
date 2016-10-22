@@ -311,6 +311,9 @@ body {
 .reveal * {
   text-align: left; }
 
+.reveal #speaker-controls {
+  font-size: 13px; }
+
 .reveal section {
   margin-top: 0;
   box-sizing: border-box; }
