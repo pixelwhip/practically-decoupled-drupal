@@ -171,6 +171,13 @@
         }
     },
     {
+        "filename": "04-How/methods.md",
+        "attr": {
+            "data-state": "state--dark",
+            "data-background": "#323133"
+        }
+    },
+    {
       "filename": "04-How/drupal-settings.md",
       "attr": {
         "data-background": "resources/img/modjs_Diaganol.svg"

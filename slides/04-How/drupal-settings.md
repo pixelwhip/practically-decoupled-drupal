@@ -1,12 +1,12 @@
 ## drupalSettings
 
-- **Great for**:
+<h4 class="subsection__heading">Great for:</h4>
   - Providing data to jQuery
-  - Providing ancillary data
+  - Providing seed data
 
-- **Downsides**:
-  - Only works on partially decoupled sites
-  - It’s the most “coupled” approach
+<h4 class="subsection__heading">Downsides:</h4>
+- Only works on partially decoupled sites
+- It’s the most “coupled” approach
 
 <aside class="notes" data-markdown>
 1. Ancillary data
