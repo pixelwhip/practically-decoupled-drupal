@@ -248,7 +248,20 @@
       }
     },
     {
-        "filename": "05-Conclusion/questions.md",
+        "filename": "05-Frontier/cover.md",
+        "attr": {
+            "data-state": "state--gold",
+            "data-background": "resources/img/modjs_Diaganol-Gold.svg"
+        }
+    },
+    {
+      "filename": "05-Frontier/frontier.md",
+      "attr": {
+        "data-background": "resources/img/modjs_Diaganol.svg"
+      }
+    },
+    {
+        "filename": "06-Conclusion/questions.md",
         "attr": {
             "data-state": "state--gold",
             "data-background": "resources/img/modjs_Diaganol-Gold.svg"
