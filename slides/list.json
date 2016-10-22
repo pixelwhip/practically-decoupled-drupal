@@ -204,57 +204,57 @@
         }
     },
     {
-      "filename": "04-How/intro.md",
+      "filename": "05-How/intro.md",
       "attr": {
         "data-state": "state--gold",
         "data-background": "resources/img/modjs_Diaganol-Gold.svg"
       }
     },
     {
-      "filename": "04-How/drupal-settings.md",
+      "filename": "05-How/drupal-settings.md",
       "attr": {
         "data-background": "resources/img/modjs_Diaganol.svg"
       }
     },
     {
-      "filename": "04-How/controllers.md",
+      "filename": "05-How/controllers.md",
       "attr": {
         "data-background": "resources/img/modjs_Diaganol.svg"
       }
     },
     {
-      "filename": "04-How/rest-module.md",
+      "filename": "05-How/rest-module.md",
       "attr": {
         "data-background": "resources/img/modjs_Diaganol.svg"
       }
     },
     {
-      "filename": "04-How/entity-query-api-module.md",
+      "filename": "05-How/entity-query-api-module.md",
       "attr": {
         "data-background": "resources/img/modjs_Diaganol.svg"
       }
     },
     {
-      "filename": "04-How/json-api-module.md",
+      "filename": "05-How/json-api-module.md",
       "attr": {
         "data-background": "resources/img/modjs_Diaganol.svg"
       }
     },
     {
-        "filename": "05-Frontier/cover.md",
+        "filename": "06-Frontier/cover.md",
         "attr": {
             "data-state": "state--gold",
             "data-background": "resources/img/modjs_Diaganol-Gold.svg"
         }
     },
     {
-      "filename": "05-Frontier/frontier.md",
+      "filename": "06-Frontier/frontier.md",
       "attr": {
         "data-background": "resources/img/modjs_Diaganol.svg"
       }
     },
     {
-        "filename": "06-Conclusion/questions.md",
+        "filename": "07-Conclusion/questions.md",
         "attr": {
             "data-state": "state--gold",
             "data-background": "resources/img/modjs_Diaganol-Gold.svg"
