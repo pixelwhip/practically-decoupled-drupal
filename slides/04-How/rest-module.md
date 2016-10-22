@@ -1,11 +1,11 @@
 ## Core REST module
 
-**Great for**:
+<h4 class="subsection__heading">Great for:</h4>
   - No dependencies
   - Stability
   - If you just need to expose something small and isolated
 
-**Downsides**:
+<h4 class="subsection__heading">Downsides:</h4>
   - Wasn't originally intended for decoupled applications
   - Leaks a ton of drupalisms to the client
   - Configuration is frustrating

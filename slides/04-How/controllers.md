@@ -1,11 +1,11 @@
 ## Custom Controllers
 
-- **Great for**:
+<h4 class="subsection__heading">Great for:</h4>
   - Processed or aggregate data
   - Providing ancillary data
   - Non-deterministic data
 
-- **Downsides**:
+<h4 class="subsection__heading">Downsides:</h4>
   - Very difficult to make the "general-purpose"
   - End up tightly coupled to the front end
 
