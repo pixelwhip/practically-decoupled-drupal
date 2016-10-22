@@ -88,8 +88,8 @@
     {
         "filename": "02-What/levels.md",
         "attr": {
-            "data-state": "state--dark",
-            "data-background": "#323133"
+            "data-state": "state--gold",
+            "data-background": "resources/img/modjs_Diaganol-Gold.svg"
         }
     },
     {
