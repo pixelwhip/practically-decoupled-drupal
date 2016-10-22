@@ -13,12 +13,14 @@
     - Can't always rely on session cookie
   - E.g. native app needs something else
     - OAuth, JWT, Basic Auth
+
 **- Keeping things consistent**
   - Controllers diverge
   - If you’re responding w/ custom JSON, what format should you use?
   - It’s not easy to create a rational, reusable API.
     - It’s an art that takes practice.
     - Assumptions will bite you.
+
 **- Mental shift**
   - Page oriented vs. Data oriented
     - Our tendency is to think in terms of pages
@@ -29,6 +31,7 @@
   - E.g. Blocks are “prescriptive”
     - The server determines what you see and how you see it.
     - A custom block might even just be pasted in HTML
+
 **- Things that are hard to do “the right way”**
   - Aggregate data
     - Sums, counts, averages are hard to think about in a decoupled way
