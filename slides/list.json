@@ -1,0 +1,245 @@
+[
+    {
+        "filename": "01-Intro/title.md",
+        "attr": {
+            "data-state": "state--gold",
+            "data-background": "resources/img/modjs_Diaganol-Gold.svg"
+        }
+    },
+    {
+        "filename": "01-Intro/speakers.html",
+        "attr": {
+            "data-state": "state--image",
+            "data-background": "resources/img/modjs_Diaganol-Single.svg"
+        }
+    },
+    {
+        "filename": "01-Intro/aten.html",
+        "attr": {
+            "data-state": "state--image",
+            "data-background": "resources/img/modjs_Diaganol-Single.svg"
+        }
+    },
+    {
+        "filename": "01-Intro/aten-clients.html",
+        "attr": {
+            "data-state": "state--image"
+        }
+    },
+    {
+        "filename": "01-Intro/intro.md",
+        "attr": {
+            "data-state": "state--dark",
+            "data-background": "#323133"
+        }
+    },
+    {
+        "filename": "02-What/intro.html",
+        "attr": {
+            "data-state": "state--gold",
+            "data-background": "resources/img/modjs_Diaganol-Gold.svg"
+        }
+    },
+    {
+        "filename": "02-What/structured-data.md",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol.svg"
+        }
+    },
+    {
+        "filename": "03-Why/intro.html",
+        "attr": {
+            "data-state": "state--gold",
+            "data-background": "resources/img/modjs_Diaganol-Gold.svg"
+        }
+    },
+    {
+        "filename": "03-Why/backend.md",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol-Single.svg"
+        }
+    },
+    {
+        "filename": "03-Why/frontend.md",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol-Single.svg"
+        }
+    },
+    {
+        "filename": "03-Why/daunting.md",
+        "attr": {
+            "data-state": "state--dark",
+            "data-background": "#323133"
+        }
+    },
+    {
+        "filename": "03-Why/daunting-frontend.md",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol-Single.svg"
+        }
+    },
+    {
+        "filename": "03-Why/daunting-backend.md",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol-Single.svg"
+        }
+    },
+    {
+        "filename": "04-Decision/decisions.html",
+        "attr": {
+            "data-state": "state--gold",
+            "data-background": "resources/img/modjs_Diaganol-Gold.svg"
+        }
+    },
+    {
+        "filename": "02-What/levels.md",
+        "attr": {
+            "data-state": "state--gold",
+            "data-background": "resources/img/modjs_Diaganol-Gold.svg"
+        }
+    },
+    {
+        "filename": "02-What/guttmacher-state-policies.md",
+        "attr": {
+            "data-state": "state--screenshot",
+            "data-background": "#323133"
+        }
+    },
+    {
+        "filename": "02-What/guttmacher-state-policies-detail.md",
+        "attr": {
+            "data-state": "state--screenshot",
+            "data-background": "#323133"
+        }
+    },
+    {
+        "filename": "02-What/guttmacher-state-policies-detail2.md",
+        "attr": {
+            "data-state": "state--screenshot",
+            "data-background": "#323133"
+        }
+    },
+    {
+        "filename": "02-What/guttmacher-state-policies-flow.html",
+        "attr": {
+            "data-state": "state--image"
+        }
+    },
+    {
+        "filename": "02-What/guttmacher-data.md",
+        "attr": {
+            "data-state": "state--screenshot",
+            "data-background": "#323133"
+        }
+    },
+    {
+        "filename": "02-What/guttmacher-data-flow.html",
+        "attr": {
+            "data-state": "state--image"
+        }
+    },
+    {
+        "filename": "02-What/c4l-assessments.md",
+        "attr": {
+            "data-state": "state--screenshot",
+            "data-background": "#323133"
+        }
+    },
+    {
+        "filename": "02-What/c4l-detail1.md",
+        "attr": {
+            "data-state": "state--screenshot",
+            "data-background": "#323133"
+        }
+    },
+    {
+        "filename": "02-What/c4l-detail2.md",
+        "attr": {
+            "data-state": "state--screenshot",
+            "data-background": "#323133"
+        }
+    },
+    {
+        "filename": "02-What/c4l-detail3.md",
+        "attr": {
+            "data-state": "state--screenshot",
+            "data-background": "#323133"
+        }
+    },
+    {
+        "filename": "02-What/c4l-flow.html",
+        "attr": {
+            "data-state": "state--image"
+        }
+    },
+    {
+        "filename": "02-What/rema.md",
+        "attr": {
+            "data-state": "state--screenshot",
+            "data-background": "#323133"
+        }
+    },
+    {
+        "filename": "02-What/rema-flow.html",
+        "attr": {
+            "data-state": "state--image"
+        }
+    },
+    {
+      "filename": "05-How/intro.html",
+      "attr": {
+        "data-state": "state--gold",
+        "data-background": "resources/img/modjs_Diaganol-Gold.svg"
+      }
+    },
+    {
+      "filename": "05-How/drupal-settings.md",
+      "attr": {
+        "data-background": "resources/img/modjs_Diaganol.svg"
+      }
+    },
+    {
+      "filename": "05-How/controllers.md",
+      "attr": {
+        "data-background": "resources/img/modjs_Diaganol.svg"
+      }
+    },
+    {
+      "filename": "05-How/rest-module.md",
+      "attr": {
+        "data-background": "resources/img/modjs_Diaganol.svg"
+      }
+    },
+    {
+      "filename": "05-How/entity-query-api-module.md",
+      "attr": {
+        "data-background": "resources/img/modjs_Diaganol.svg"
+      }
+    },
+    {
+      "filename": "05-How/json-api-module.md",
+      "attr": {
+        "data-background": "resources/img/modjs_Diaganol.svg"
+      }
+    },
+    {
+        "filename": "06-Frontier/cover.html",
+        "attr": {
+            "data-state": "state--gold",
+            "data-background": "resources/img/modjs_Diaganol-Gold.svg"
+        }
+    },
+    {
+      "filename": "06-Frontier/frontier.md",
+      "attr": {
+        "data-background": "resources/img/modjs_Diaganol.svg"
+      }
+    },
+    {
+        "filename": "07-Conclusion/questions.md",
+        "attr": {
+            "data-state": "state--gold",
+            "data-background": "resources/img/modjs_Diaganol-Gold.svg"
+        }
+    }
+]
