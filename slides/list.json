@@ -211,7 +211,7 @@
         }
     },
     {
-      "filename": "05-How/intro.md",
+      "filename": "05-How/intro.html",
       "attr": {
         "data-state": "state--gold",
         "data-background": "resources/img/modjs_Diaganol-Gold.svg"
