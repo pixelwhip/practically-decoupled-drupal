@@ -204,13 +204,6 @@
         }
     },
     {
-        "filename": "04-How/methods.md",
-        "attr": {
-            "data-state": "state--dark",
-            "data-background": "#323133"
-        }
-    },
-    {
       "filename": "04-How/intro.md",
       "attr": {
         "data-state": "state--gold",
