@@ -1,6 +1,5 @@
 ## Connect 4 Learning
-- "Progressively" decoupled
-  - Whole portions of the application are done with React alone vs. "partially" decoupled which relied on Drupal pushing data
+- Progressively decoupled
 - Single React app embedded within a greater Drupal application
   - React app has its own routing system within the client
   - Shared app code across routes.
