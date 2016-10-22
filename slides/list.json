@@ -178,6 +178,13 @@
         }
     },
     {
+      "filename": "04-How/intro.md",
+      "attr": {
+        "data-state": "state--gold",
+        "data-background": "resources/img/modjs_Diaganol-Gold.svg"
+      }
+    },
+    {
       "filename": "04-How/drupal-settings.md",
       "attr": {
         "data-background": "resources/img/modjs_Diaganol.svg"
