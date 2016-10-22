@@ -86,6 +86,13 @@
         }
     },
     {
+        "filename": "04-Decision/decisions.html",
+        "attr": {
+            "data-state": "state--gold",
+            "data-background": "resources/img/modjs_Diaganol-Gold.svg"
+        }
+    },
+    {
         "filename": "02-What/levels.md",
         "attr": {
             "data-state": "state--gold",
@@ -241,7 +248,7 @@
       }
     },
     {
-        "filename": "06-Frontier/cover.md",
+        "filename": "06-Frontier/cover.html",
         "attr": {
             "data-state": "state--gold",
             "data-background": "resources/img/modjs_Diaganol-Gold.svg"
