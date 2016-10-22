@@ -1,7 +1,6 @@
 ##  Frontend
-
-<ul class="list--biggy">
-  <li class="fragment">Moving complexity from the server to the client</li>
+Moving complexity from the server to the client
+<ul class="list--biggy" style="margin-top: 1em">
   <li class="fragment">Authentication</li>
   <li class="fragment">Accessibility</li>
   <li class="fragment">Network errors</li>

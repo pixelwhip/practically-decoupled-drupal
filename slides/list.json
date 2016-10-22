@@ -120,12 +120,6 @@
         }
     },
     {
-        "filename": "02-What/guttmacher-state-policies-points.md",
-        "attr": {
-            "data-background": "resources/img/modjs_Diaganol.svg"
-        }
-    },
-    {
         "filename": "02-What/guttmacher-state-policies-flow.html",
         "attr": {
             "data-state": "state--image"
@@ -136,12 +130,6 @@
         "attr": {
             "data-state": "state--screenshot",
             "data-background": "#323133"
-        }
-    },
-    {
-        "filename": "02-What/guttmacher-data-points.md",
-        "attr": {
-            "data-background": "resources/img/modjs_Diaganol.svg"
         }
     },
     {
@@ -179,12 +167,6 @@
         }
     },
     {
-        "filename": "02-What/c4l-assessments-points.md",
-        "attr": {
-            "data-background": "resources/img/modjs_Diaganol.svg"
-        }
-    },
-    {
         "filename": "02-What/c4l-flow.html",
         "attr": {
             "data-state": "state--image"
@@ -195,12 +177,6 @@
         "attr": {
             "data-state": "state--screenshot",
             "data-background": "#323133"
-        }
-    },
-    {
-        "filename": "02-What/rema-points.md",
-        "attr": {
-            "data-background": "resources/img/modjs_Diaganol.svg"
         }
     },
     {

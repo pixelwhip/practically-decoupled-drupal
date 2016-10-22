@@ -12,3 +12,20 @@
     </figure>
   </div>
 </div>
+
+<aside class="notes" data-markdown>
+The REMA app for Denver University is another tool for assessing PreK through 2nd grade students.
+
+Assessor will take their iPads onsite to administer assessments in the classroom. It's very important that this app work offline. As assessors often find themselves in schools where they aren't granted access to the wifi.
+
+All the assessment instructions and prompts are stored in Drupal as well as individual assessment results.
+
+  - Fully decoupled iOS app (React Native)
+  - Offline storage
+  - Uses the JSON API module
+
+  <h4 class="sub-section__heading">Built with:</h4>
+    - React Native
+    - Drupal (JSON API)
+    - JWT
+</aside>
