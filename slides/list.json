@@ -41,10 +41,23 @@
         }
     },
     {
+        "filename": "02-What/structured-data.md",
+        "attr": {
+            "data-state": "state--dark",
+            "data-background": "#323133"
+        }
+    },
+    {
         "filename": "03-Why/intro.html",
         "attr": {
             "data-state": "state--gold",
             "data-background": "resources/img/modjs_Diaganol-Gold.svg"
+        }
+    },
+    {
+        "filename": "03-Why/backend.md",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol-Single.svg"
         }
     },
     {
@@ -54,7 +67,20 @@
         }
     },
     {
-        "filename": "03-Why/backend.md",
+        "filename": "03-Why/daunting.md",
+        "attr": {
+            "data-state": "state--dark",
+            "data-background": "#323133"
+        }
+    },
+    {
+        "filename": "03-Why/daunting-frontend.md",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol-Single.svg"
+        }
+    },
+    {
+        "filename": "03-Why/daunting-backend.md",
         "attr": {
             "data-background": "resources/img/modjs_Diaganol-Single.svg"
         }
