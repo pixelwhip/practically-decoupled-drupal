@@ -27,6 +27,13 @@
         }
     },
     {
+        "filename": "01-Intro/intro.md",
+        "attr": {
+            "data-state": "state--dark",
+            "data-background": "#323133"
+        }
+    },
+    {
         "filename": "02-What/intro.html",
         "attr": {
             "data-state": "state--gold",
